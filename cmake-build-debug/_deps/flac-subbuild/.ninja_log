@@ -1,0 +1,21 @@
+# ninja log v6
+2	69	7647982831113539	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	a047e994563613c3
+2	69	7647982831113539	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	a047e994563613c3
+70	6092	7647982891335206	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	ded4e9eea08c1729
+70	6092	7647982891335206	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	ded4e9eea08c1729
+6092	6249	7647982891390255	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	ddf329d2fe408c89
+6092	6249	7647982891390255	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	ddf329d2fe408c89
+6250	6319	7647982893605339	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	e650760951047c2e
+6250	6319	7647982893605339	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	e650760951047c2e
+6319	6383	7647982894250739	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	359153b72133452c
+6319	6383	7647982894250739	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	359153b72133452c
+6383	6448	7647982894909671	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	8e57031df556fe3f
+6383	6448	7647982894909671	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	8e57031df556fe3f
+6449	6513	7647982895548161	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	fffdcddfb31d12b4
+6449	6513	7647982895548161	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	fffdcddfb31d12b4
+6513	6578	7647982896203208	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	9b4a07d338ba83e3
+6513	6578	7647982896203208	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	9b4a07d338ba83e3
+6578	6667	7647982897085881	CMakeFiles/flac-populate-complete	8d564de97d37c3a8
+6578	6667	7647982897085881	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	8d564de97d37c3a8
+6578	6667	7647982897085881	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	8d564de97d37c3a8
+6578	6667	7647982897085881	C:/Users/homar/CLionProjects/sfml-template2/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	8d564de97d37c3a8
